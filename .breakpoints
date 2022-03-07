@@ -1,0 +1,34 @@
+{
+  "files": {
+    "CcommonAreaModule.py": [
+      {
+        "id": "1f5ed2af-4235-4e9e-ad00-b3eeef2ad470",
+        "line": 6,
+        "version": 2816,
+        "index": 82
+      }
+    ],
+    "formatModule.py": [
+      {
+        "id": "a2d6d53e-cd42-431e-bee7-971143bddcbb",
+        "line": 38,
+        "version": 242,
+        "index": 728
+      }
+    ],
+    "roomModule.py": [
+      {
+        "id": "7161e456-3dfc-485a-898b-a767f79557a0",
+        "line": 8,
+        "version": 12216,
+        "index": 146
+      },
+      {
+        "id": "0f9bdb4d-31d0-4475-af13-283623f47fe9",
+        "line": 396,
+        "version": 12216,
+        "index": 13500
+      }
+    ]
+  }
+}
